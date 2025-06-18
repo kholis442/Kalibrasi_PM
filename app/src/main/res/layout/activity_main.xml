@@ -20,8 +20,8 @@
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:layout_marginBottom="8dp"
-        android:text="JASA KALIBRASI"
         android:textColor="?attr/colorPrimary"
+        android:text="JASA KALIBRASI"
         android:textSize="28sp"
         android:textStyle="bold" />
 
