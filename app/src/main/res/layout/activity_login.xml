@@ -14,8 +14,8 @@
         android:padding="32dp">
 
         <ImageView
-            android:layout_height="100dp"
             android:layout_width="100dp"
+            android:layout_height="100dp"
             android:src="@drawable/ic_calibration"
             android:layout_marginBottom="32dp"
             android:contentDescription="Logo"
