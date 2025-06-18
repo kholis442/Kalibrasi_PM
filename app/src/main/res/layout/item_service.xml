@@ -20,7 +20,7 @@
             android:scaleType="centerCrop"
             android:background="?attr/colorPrimary"
             android:padding="24dp"
-            android:src="@drawable/ic_calibration"
+            android:src="@drawable/logo"
             android:contentDescription="Service Image" />
 
         <LinearLayout
