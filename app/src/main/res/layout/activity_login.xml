@@ -24,8 +24,8 @@
         <TextView
             android:text="Login"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
             android:textStyle="bold"
+            android:layout_height="wrap_content"
             android:textSize="24sp"
             android:textColor="?attr/colorPrimary"
             android:layout_marginBottom="32dp" />
