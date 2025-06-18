@@ -22,8 +22,8 @@
             app:tint="?attr/colorPrimary" />
 
         <TextView
-            android:layout_width="wrap_content"
             android:text="Login"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textStyle="bold"
             android:textSize="24sp"
