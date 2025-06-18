@@ -38,8 +38,8 @@
             style="@style/Widget.Material3.TextInputLayout.OutlinedBox">
 
             <com.google.android.material.textfield.TextInputEditText
-                android:id="@+id/et_username"
                 android:layout_width="match_parent"
+                android:id="@+id/et_username"
                 android:layout_height="wrap_content"
                 android:inputType="text"
                 android:maxLines="1" />
