@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarif Jasa Kalibrasi</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="service_list">Daftar Jasa</string>
+    <string name="order_whatsapp">Pesan via WhatsApp</string>
+    <string name="choose_service">Pilih Jasa Kalibrasi</string>
+</resources>
