@@ -9,8 +9,8 @@
     android:padding="32dp">
 
     <ImageView
-        android:layout_height="120dp"
         android:layout_width="120dp"
+        android:layout_height="120dp"
         android:layout_marginBottom="24dp"
         android:contentDescription="Logo Kalibrasi"
         android:src="@drawable/logo"
