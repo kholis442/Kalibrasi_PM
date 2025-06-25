@@ -4,13 +4,13 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     app:cardElevation="4dp"
-    app:cardCornerRadius="16dp"
     android:layout_margin="8dp"
+    app:cardCornerRadius="16dp"
     app:strokeWidth="0dp">
 
     <LinearLayout
-        android:layout_height="wrap_content"
         android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:orientation="vertical">
 
         <ImageView
@@ -31,11 +31,11 @@
 
             <TextView
                 android:id="@+id/tv_service_name"
-                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_width="match_parent"
                 android:text="Nama Jasa"
-                android:textSize="20sp"
                 android:textStyle="bold"
+                android:textSize="20sp"
                 android:textColor="?attr/colorPrimary"
                 android:layout_marginBottom="8dp" />
 
